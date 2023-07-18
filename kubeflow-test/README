@@ -1,0 +1,3 @@
+I have created a kubeflow on ARCOS cluster following the instruction on link below. 
+https://github.com/kubeflow/manifests/tree/master
+Next I want to sync it to this repository using ArgoCD.
